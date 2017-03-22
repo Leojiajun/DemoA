@@ -40,3 +40,4 @@ public class loginManage {
 		
 	}
 }
+//add by Leo 2017-03-22
