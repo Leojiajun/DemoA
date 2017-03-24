@@ -45,7 +45,7 @@ public ParseProperties(String propertiespath){
 	}
 	
 	public static void main(String[] args){
-		ParseProperties a = new ParseProperties("C:/Users/user/workspace/selenuimdemo/Tools/test.properties");
+		ParseProperties a = new ParseProperties("C:/Users/user/workspace/TestManage/Tools/test.properties");
 		System.out.println(a.getValue("password"));
 	}
 }
